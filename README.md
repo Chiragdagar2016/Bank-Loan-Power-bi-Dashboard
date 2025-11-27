@@ -45,4 +45,4 @@
    • Supports data-driven decision-making for lending policies and customer targeting.
 
 7. Screenshots / Demos
-  ![Dashboard Screenshot]([https://github.com/Chiragdagar2016/Bank-Loan-Power-bi-Dashboard/blob/main/Snapshot%20of%20Bank%20Dashboard.png](https://github.com/Chiragdagar2016/Bank-Loan-Power-bi-Dashboard/blob/main/Snapshot%20of%20Bank%20Loan%20Analysis.png))
+  ![Dashboard Screenshot](https://github.com/Chiragdagar2016/Bank-Loan-Power-bi-Dashboard/blob/main/Snapshot%20of%20Bank%20Loan%20Analysis.png)
